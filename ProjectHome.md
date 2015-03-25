@@ -1,0 +1,1 @@
+as the cpacitive screen works on pulse so when the person concerned touches the screen it will tell its heartbeat.
